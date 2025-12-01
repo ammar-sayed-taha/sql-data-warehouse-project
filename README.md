@@ -108,5 +108,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Ammar Sayed**. I’m Senior Data Engineer who is passionate about data and love to play with it till make it useful for anyone need to benefit from it.
+Hi there! I'm **Ammar Sayed**. I’m a Senior Data Engineer who is passionate about data and loves to play with it to make it useful for anyone who needs to benefit from it.
+Have something for me? [LinkedIn](https://www.linkedin.com/in/as3099/)
 
